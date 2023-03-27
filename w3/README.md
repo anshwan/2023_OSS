@@ -3,7 +3,7 @@
 ### 3주차 git   
 
 ### 이미지   
-![한국항공대학교 로고](./kauimg.png)   
+![한국항공대학교 로고](../kauimg.png)   
 
 ### 링크 
 [LMS](https://lms.kau.ac.kr/)
