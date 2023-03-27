@@ -54,19 +54,19 @@ echo -e "last line : \n$LAST_LINE\n"
 3. 두번째
 
 #### 번호없는 목록 : *,-,+
-+ 첫번째
-   + 세번째
++ 첫번째   
+   + 세번째   
       +두번째 <hr/>
 
-- 빨강
-   - 녹색
-      -파랑
+- 빨강   
+   - 녹색   
+        -파랑   
 
 ### 강조
 
-*single asterisks* 
-_single underscores_ 
-**double asterisks** 
-__double underscores__ 
+*single asterisks*    
+_single underscores_    
+**double asterisks**    
+__double underscores__    
 ~~cancelline~~
 
