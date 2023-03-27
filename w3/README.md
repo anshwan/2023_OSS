@@ -19,7 +19,8 @@
 * merge
 * status
 * log
-   * 예) git log --oneline -- decorate --graph --all <hr/>
+   * 예) git log --oneline -- decorate --graph --all 
+<hr/>
 
 ### 2주차 숙제
 ```bash
@@ -56,11 +57,12 @@ echo -e "last line : \n$LAST_LINE\n"
 #### 번호없는 목록 : *,-,+
 + 첫번째   
    + 세번째   
-      +두번째 <hr/>
+      + 두번째 
+<hr/>
 
 - 빨강   
    - 녹색   
-        -파랑   
+      - 파랑   
 
 ### 강조
 
