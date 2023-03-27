@@ -3,7 +3,7 @@
 ### 3주차 git   
 
 ### 이미지   
-![Alt text](./kau image.png)   
+![한국항공대학교 로고](./kau image.png)   
 
 ### 링크 
 [LMS](https://lms.kau.ac.kr/)
@@ -56,8 +56,8 @@ echo -e "last line : \n$LAST_LINE\n"
 
 #### 번호없는 목록 : *,-,+
 + 첫번째   
-   + 세번째   
-      + 두번째 
++ 세번째   
++ 두번째 
 <hr/>
 
 - 빨강   
